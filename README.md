@@ -1,7 +1,7 @@
 # 👋 Hey there, I'm Lorith Karthikeyan B
 ### B.Tech CSE - AIML @ SRM University | Future-Proof Tech Explorer
 
-Welcome to my little corner of the internet! I'm a first-year Computer Science student specializing in Artificial Intelligence & Machine Learning, with a deep passion for blending code, creativity, and chaos — quite literally.
+Welcome to my little corner of the internet! I'm a second-year Computer Science student specializing in Artificial Intelligence & Machine Learning, with a deep passion for blending code, creativity, and chaos — quite literally.
 
 ---
 
